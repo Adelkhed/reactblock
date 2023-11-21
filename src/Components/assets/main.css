@@ -1,0 +1,10 @@
+.main-container{
+    background-color:  #e06666;
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+   
+    margin: 10px;
+}
